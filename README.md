@@ -1,7 +1,7 @@
 ## To Run
 - `npm install`
 - `npx parcel src/index.html`
-- Navigate to (http://localhost:1234)[] in browser
+- Navigate to [http://localhost:1234] in browser
 
 ## To edit starting grid
 - Navigate to src/conway.ts and edit GRID matrix at the bottom of the file.
